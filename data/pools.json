@@ -1,0 +1,74 @@
+{
+    "6101646477": [
+        {
+            "token_address": "0x8A49E02E27cC730E0a8E72D3320BA0ed15a6F6F6",
+            "pool_address": null,
+            "liquidity_amount": {
+                "token_amount": 1000000.0,
+                "eth_amount": 0.0001
+            },
+            "network": "polygon",
+            "created_at": "2025-06-14T18:22:30.294571"
+        },
+        {
+            "token_address": "0x8A49E02E27cC730E0a8E72D3320BA0ed15a6F6F6",
+            "pool_address": null,
+            "liquidity_amount": {
+                "token_amount": 1000000.0,
+                "eth_amount": 0.001
+            },
+            "network": "polygon",
+            "created_at": "2025-06-14T18:27:29.864610"
+        },
+        {
+            "token_address": "0x8A49E02E27cC730E0a8E72D3320BA0ed15a6F6F6",
+            "pool_address": "0x510941EDd985d48bB638d6e94C79d37d9C50e0f7",
+            "liquidity_amount": {
+                "token_amount": 1000000.0,
+                "eth_amount": 0.001
+            },
+            "network": "polygon",
+            "created_at": "2025-06-14T18:27:46.923808"
+        },
+        {
+            "token_address": "0xc8Ccdb079F5168D0149702f37a48174bEcAF3Cf7",
+            "pool_address": null,
+            "liquidity_amount": {
+                "token_amount": 10000000.0,
+                "eth_amount": 0.001
+            },
+            "network": "polygon",
+            "created_at": "2025-06-14T18:46:25.326439"
+        },
+        {
+            "token_address": "0xc8Ccdb079F5168D0149702f37a48174bEcAF3Cf7",
+            "pool_address": "0x9e37B8aD2F67F77DE5405659afA86B299b416d75",
+            "liquidity_amount": {
+                "token_amount": 10000000.0,
+                "eth_amount": 0.001
+            },
+            "network": "polygon",
+            "created_at": "2025-06-14T18:46:52.626029"
+        },
+        {
+            "token_address": "0xD8056f37d0E99bC062cFb6560a8f28380fc34AD1",
+            "pool_address": null,
+            "liquidity_amount": {
+                "token_amount": 500000.0,
+                "eth_amount": 0.1
+            },
+            "network": "polygon",
+            "created_at": "2025-06-18T05:03:59.152915"
+        },
+        {
+            "token_address": "0xD8056f37d0E99bC062cFb6560a8f28380fc34AD1",
+            "pool_address": "0xb508c2c7c6BC3bBaA2ED20EF3923ae8eB6CfCc75",
+            "liquidity_amount": {
+                "token_amount": 500000.0,
+                "eth_amount": 0.1
+            },
+            "network": "polygon",
+            "created_at": "2025-06-18T05:04:28.851971"
+        }
+    ]
+}
